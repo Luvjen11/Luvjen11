@@ -58,7 +58,7 @@ Right now I’m focused on improving my system design fundamentals, strengthenin
 
 You can learn more about me by checking out my portfolio --> [portfolio](https://jen-os.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jennifer-okeke-24432130b](https://www.linkedin.com/in/jenniferogechiokeke/))  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@selfsaga) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferogechiokeke/)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@selfsaga_) 
 
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jenesis.studio)
